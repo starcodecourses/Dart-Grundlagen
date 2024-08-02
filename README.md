@@ -1,2 +1,2 @@
-# Flutter-Grundlagen
-Ein 10-wöchiger Kurs, um die Grundlagen von Flutter, einem Framework zur Entwicklung mobiler Apps, zu erlernen.
+# Flutter-Basics
+A 10-week course to learn the fundamentals of Flutter, a framework for developing mobile apps.
