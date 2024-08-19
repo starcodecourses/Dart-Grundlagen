@@ -1,2 +1,2 @@
 # Dart-Basics
-A 10-week course to learn the fundamentals of Flutter, a framework for developing mobile apps.
+A 10-week course to learn the basics of Dart, a programming language primarily used for developing mobile, desktop, and web applications.
